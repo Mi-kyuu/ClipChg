@@ -1,8 +1,8 @@
 # clipchg
 クリップボードを監視し、特定の文字列を自動で置換するソフトウェアClipboard Changer
 
-Version 1.00 (2020/03)   
-SHA-256 : 6a9c645c42d64967e1d2aa044f00a994d7cd1e19aae330e5e698232ed77e6ca2
+Version 1.01 (2020/04)   
+SHA-256 : e25d0f7a3c473597d0135c1d2cc65fc71c7ff489df207ec4c3c2c2d77c895157
 
 ## Description
 ClipBoard Changerはタスクトレイに常駐し、クリップボードを監視、事前に設定した文字列がクリップボード内に含まれている場合に自動で置換するソフトウェアです。

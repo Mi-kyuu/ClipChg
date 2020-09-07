@@ -11,7 +11,7 @@ ClipBoard Changerはタスクトレイに常駐、クリップボードを監視
 ![PetaPad](https://i.imgur.com/WvfE2Mq.gif)
 
 ## Requirement
-Windows XP 以降  
+Windows XP or later.  
 
 ## Usage
 Clipchg.exeを実行するとタスクトレイに常駐します。(初回起動時は設定画面が起動します。)  

@@ -1,5 +1,7 @@
-# clipchg
-クリップボードを監視し、特定の文字列を自動で置換するソフトウェアClipboard Changer
+# Clipboard Changer
+クリップボードを監視し、特定の文字列を自動で置換するソフトウェアClipboard Changer  
+  
+Clipboard Changer is a Windows software that monitors the clipboard and automatically replaces specific strings.
 
 Version 1.01 (2020/04)   
 SHA-256 : e25d0f7a3c473597d0135c1d2cc65fc71c7ff489df207ec4c3c2c2d77c895157
